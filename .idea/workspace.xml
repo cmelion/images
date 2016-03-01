@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4f7fe3-0557-4cfc-bdd1-4afbe620b133" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generator-ng2-webpack/webstorm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generator-ng2-webpack/chrome.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="images.iws" />
@@ -49,8 +48,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webstorm.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="webstorm.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generator-ng2-webpack/webstorm.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chrome.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generator-ng2-webpack/chrome.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -264,7 +270,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456874013014</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="support files for https://github.com/cmelion/generator-ng2-webpack/wiki/I-hate-that-all-the-files-are-named-index.ts%2C-style.scss-and-template.html%21/_edit">
+      <created>1456874566422</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1456874566422</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -358,6 +370,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/generator-ng2-webpack/webstorm.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator-ng2-webpack/chrome.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
