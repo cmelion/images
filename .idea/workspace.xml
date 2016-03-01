@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4f7fe3-0557-4cfc-bdd1-4afbe620b133" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/angular2-webpack/typescript-compiler-errors.png" afterPath="$PROJECT_DIR$/angular2-webpack/typescript-compiler-error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generator-ng2-webpack/webstorm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="images.iws" />
@@ -24,8 +25,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="typescript-compiler-error.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="typescript-compiler-error.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular2-webpack/typescript-compiler-error.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sublime.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generator-ng2-webpack/sublime.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webstorm.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generator-ng2-webpack/webstorm.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -42,8 +67,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="-16" />
+    <option name="y" value="138" />
+    <option name="width" value="1096" />
+    <option name="height" value="701" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -70,8 +97,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -87,6 +114,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generator-ng2-webpack" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -130,14 +171,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/angular2-webpack" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/che" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/generator-ng2-webpack" />
+      <recent name="$PROJECT_DIR$/angular2-webpack" />
       <recent name="$PROJECT_DIR$/che" />
     </key>
   </component>
@@ -217,14 +258,20 @@
       <option name="project" value="LOCAL" />
       <updated>1456674816117</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="support files for https://github.com/cmelion/generator-ng2-webpack/wiki/I-hate-that-all-the-files-are-named-index.ts%2C-style.scss-and-template.html%21/_edit">
+      <created>1456874013014</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1456874013014</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-16" y="138" width="1096" height="701" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3946441" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52093023" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -249,13 +296,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add che issue images&#10;https://github.com/eclipse/che/issues/550#issuecomment-189558563" />
     <MESSAGE value="add typescript compile issues&#10;https://github.com/preboot/angular-webpack/issues/14" />
-    <option name="LAST_COMMIT_MESSAGE" value="add typescript compile issues&#10;https://github.com/preboot/angular-webpack/issues/14" />
+    <MESSAGE value="support files for https://github.com/cmelion/generator-ng2-webpack/wiki/I-hate-that-all-the-files-are-named-index.ts%2C-style.scss-and-template.html%21/_edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="support files for https://github.com/cmelion/generator-ng2-webpack/wiki/I-hate-that-all-the-files-are-named-index.ts%2C-style.scss-and-template.html%21/_edit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/angular2-webpack/typescript-compiler-error.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/che/ts-syntax-errors-as-js.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -287,6 +340,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/angular2-webpack/typescript-compiler-error.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator-ng2-webpack/sublime.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator-ng2-webpack/webstorm.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
